@@ -6,4 +6,4 @@ ratings:
   paths:
     - "**.cls"
     - "**.trigger"
-exclude_paths: []
+exclude_paths:
